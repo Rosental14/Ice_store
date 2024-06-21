@@ -6,9 +6,9 @@ Utilizamos dados de avaliações de usuários e especialistas, gêneros, platafo
 
 ### Instalação
 ##### Pré-requisitos
-•	Python 3.x: (Qualquer versão do Python 3, como 3.6, 3.7, 3.8...).  
+* **Python 3.x:** (Qualquer versão do Python 3, como 3.6, 3.7, 3.8...).  
 
-•	Bibliotecas Python:  Pandas, Numpy, Seaborn, Math, Matplotlib, Scipy e Requests.  
+* **Bibliotecas Python:**  Pandas, Numpy, Seaborn, Math, Matplotlib, Scipy e Requests.  
 
 ##### Instruções de Instalação
 
@@ -24,15 +24,15 @@ Utilizamos dados de avaliações de usuários e especialistas, gêneros, platafo
 3.	Execute as células sequencialmente para reproduzir a análise.  
 
 ### Funcionalidades  
-•	Preparação e limpeza dos dados de vendas de jogos;
-•	Análise descritiva e exploratória dos dados;
-•	Identificação de padrões de vendas por plataforma e gênero;
-•	Análise do impacto das avaliações de usuários e especialistas nas vendas;
-•	Criação de perfis de usuários para diferentes regiões (AN, UE, JP);
-•	Teste de hipóteses estatísticas sobre avaliações de usuários. 
+* Preparação e limpeza dos dados de vendas de jogos;  
+* Análise descritiva e exploratória dos dados;  
+* Identificação de padrões de vendas por plataforma e gênero;  
+* Análise do impacto das avaliações de usuários e especialistas nas vendas;  
+* Criação de perfis de usuários para diferentes regiões (AN, UE, JP);  
+* Teste de hipóteses estatísticas sobre avaliações de usuários.  
 
 ### Créditos  
-•	Autor: Renan Rosental 
- 
+Autor: Renan Rosental 
+
 ### Contato  
 Para dúvidas e feedback, entre em contato via e-mail: renan.engal@gmail.com
